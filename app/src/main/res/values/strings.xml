@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movietron</string>
+
+    <string name="movies_title">Movies</string>
+    <string name="tv_shows_title">TV Shows</string>
+    <string name="favorites_title">Favorites</string>
+
+    <string name="movie_detail">Movie Detail</string>
+    <string name="tv_detail">TV Show Detail</string>
+
+    <string name="poster">Poster</string>
+    <string name="overview">Overview</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove">Remove</string>
+    <string name="message_undo">Undo remove?</string>
+    <string name="message_ok">OK</string>
+
+    <string name="demo_title">Movie or TV Show</string>
+    <string name="demo_release">January 1, 2019</string>
+    <string name="demo_overview">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+
+</resources>
